@@ -1,0 +1,5 @@
+C:\AcklenProjects\stringCalculator\stringCalculator\bin\Debug\stringCalculator.dll
+C:\AcklenProjects\stringCalculator\stringCalculator\bin\Debug\stringCalculator.pdb
+C:\AcklenProjects\stringCalculator\stringCalculator\obj\Debug\stringCalculator.csprojResolveAssemblyReference.cache
+C:\AcklenProjects\stringCalculator\stringCalculator\obj\Debug\stringCalculator.dll
+C:\AcklenProjects\stringCalculator\stringCalculator\obj\Debug\stringCalculator.pdb

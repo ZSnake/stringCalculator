@@ -1,0 +1,10 @@
+C:\AcklenProjects\stringCalculator\stringCalculator.specs\bin\Debug\stringCalculator.specs.dll
+C:\AcklenProjects\stringCalculator\stringCalculator.specs\bin\Debug\stringCalculator.specs.pdb
+C:\AcklenProjects\stringCalculator\stringCalculator.specs\bin\Debug\Machine.Specifications.Clr4.dll
+C:\AcklenProjects\stringCalculator\stringCalculator.specs\bin\Debug\Machine.Specifications.dll
+C:\AcklenProjects\stringCalculator\stringCalculator.specs\bin\Debug\Machine.Specifications.Should.dll
+C:\AcklenProjects\stringCalculator\stringCalculator.specs\bin\Debug\stringCalculator.dll
+C:\AcklenProjects\stringCalculator\stringCalculator.specs\bin\Debug\stringCalculator.pdb
+C:\AcklenProjects\stringCalculator\stringCalculator.specs\obj\Debug\stringCalculator.specs.csprojResolveAssemblyReference.cache
+C:\AcklenProjects\stringCalculator\stringCalculator.specs\obj\Debug\stringCalculator.specs.dll
+C:\AcklenProjects\stringCalculator\stringCalculator.specs\obj\Debug\stringCalculator.specs.pdb
