@@ -1,0 +1,4 @@
+<Modules>
+  <Module PersistentId="6ACE98CD-BDD6-4E15-A1EC-F22A2FE5A464" ModuleId="stringCalculator" />
+  <Module PersistentId="5E7CDDD5-BE14-4525-8AF8-28BDAA182E77" ModuleId="stringCalculator.specs" />
+</Modules>
